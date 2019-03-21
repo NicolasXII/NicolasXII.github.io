@@ -1,0 +1,46 @@
+#titolo{
+    color: #ff0000;
+    text-align: center;
+}
+#paragrafo{
+    color: #00ff00;
+}
+#paragrafo2{
+    color: #ffff00;
+    text-align: right;
+}
+#paragrafo3{
+    color: #ff00ff;
+}
+#paragrafo4{
+    color: #ffa500;
+    text-align: right;
+}
+#paragrafo5{
+    color: #00ffff;
+}
+#paragrafo6{
+    color: #ffffff;
+    text-align: right;
+}
+#paragrafo7{
+    color: #0000ff;
+}
+#titolo2{
+    color: #ff0000;
+    text-align: center;
+}
+#titolo3{
+    color: #ff0000;
+    text-align: right;
+}
+body{
+    background: url('BlackFerrari.jpg');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+#suoni{
+    visibility: hidden;
+}
